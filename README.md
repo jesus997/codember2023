@@ -9,13 +9,13 @@ Al final esto se trata de aprender, mejorar, pero sobre todo divertirse.
 
 ## Retos
 
-|                           Reto                           |       Solución        |
-| :------------------------------------------------------: | :-------------------: |
-|                   Mensajes encriptados                   |   :heavy_check_mark:  |
-|                                                          |                       |
-|                                                          |                       |
-|                                                          |                       |
-|                                                          |                       |
+|                           Reto                           |       Solución       |   Lenguage   |
+| :------------------------------------------------------: | :------------------: | :----------: |
+|                   Mensajes encriptados                   |  :heavy_check_mark:  |  JavaScript  |
+|                       Próximamente                       |    :radio_button:    |       -      |
+|                       Próximamente                       |    :radio_button:    |       -      |
+|                       Próximamente                       |    :radio_button:    |       -      |
+|                       Próximamente                       |    :radio_button:    |       -      |
 
 ## Enlaces de interés
 * [https://codember.dev](https://codember.dev)
