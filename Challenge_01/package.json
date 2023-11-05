@@ -1,0 +1,15 @@
+{
+  "name": "codember_challenge_01",
+  "version": "1.0.0",
+  "description": "First challenge of codember by @midudev",
+  "main": "entry.js",
+  "scripts": {
+    "challenge": "node entry.js",
+    "test": "jest"
+  },
+  "author": "@yosoydev",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
