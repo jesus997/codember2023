@@ -9,7 +9,7 @@ Al final esto se trata de aprender, mejorar, pero sobre todo divertirse.
 
 ## Retos
 
-|                           Reto                           |       Solución       |   Lenguage   |
+|                           Reto                           |       Solución       |   Language   |
 | :------------------------------------------------------: | :------------------: | :----------: |
 |                   Mensajes encriptados                   |  :heavy_check_mark:  |  JavaScript  |
 |                 Mini Compiler Challenge                  |  :heavy_check_mark:  |      PHP     |
