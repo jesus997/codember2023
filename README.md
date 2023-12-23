@@ -12,7 +12,7 @@ Al final esto se trata de aprender, mejorar, pero sobre todo divertirse.
 |                           Reto                           |       Solución       |   Lenguage   |
 | :------------------------------------------------------: | :------------------: | :----------: |
 |                   Mensajes encriptados                   |  :heavy_check_mark:  |  JavaScript  |
-|                       Próximamente                       |    :radio_button:    |       -      |
+|                 Mini Compiler Challenge                  |  :heavy_check_mark:  |      PHP     |
 |                       Próximamente                       |    :radio_button:    |       -      |
 |                       Próximamente                       |    :radio_button:    |       -      |
 |                       Próximamente                       |    :radio_button:    |       -      |
