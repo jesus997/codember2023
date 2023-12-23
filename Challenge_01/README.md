@@ -1,7 +1,7 @@
 ![Codember ver. 2023](../resources/codember-logo.png)
 # Challenge_01 | Codember by [@midudev](https://twitter.com/midudev)
 
-**Lenguage:** JavaScript (NodeJS)
+**Language:** JavaScript (NodeJS)
 
 ## El reto
 

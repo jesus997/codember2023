@@ -1,7 +1,7 @@
 ![Codember ver. 2023](../resources/codember-logo.png)
 # Challenge_02 | Codember by [@midudev](https://twitter.com/midudev)
 
-**Lenguage:** PHP 8.3
+**Language:** PHP 8.3
 
 ## Mini Compiler Challenge
 
