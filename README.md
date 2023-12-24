@@ -13,7 +13,7 @@ Al final esto se trata de aprender, mejorar, pero sobre todo divertirse.
 | :------------------------------------------------------: | :------------------: | :----------: |
 |                   Mensajes encriptados                   |  :heavy_check_mark:  |  JavaScript  |
 |                 Mini Compiler Challenge                  |  :heavy_check_mark:  |      PHP     |
-|                       Próximamente                       |    :radio_button:    |       -      |
+|               El Desafío del Cifrado Espía               |  :heavy_check_mark:  |      Ruby    |
 |                       Próximamente                       |    :radio_button:    |       -      |
 |                       Próximamente                       |    :radio_button:    |       -      |
 
