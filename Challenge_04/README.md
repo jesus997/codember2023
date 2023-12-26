@@ -38,6 +38,6 @@ Para ejecutar la solución al reto basta con ejecutar el comando `env java -cp C
 
 ### Pruebas unitarias
 
-> :warning: Para correr las pruebas unitarias es necesario instalar la dependencia `<>`. Puedes hacerlo ejecutando `<>` dentro de la carpeta Challenge_04.
+> :warning: Para correr las pruebas unitarias es necesario instalar la dependencia `junit`.
 
 Para ejecutar las pruebas unitarias, es necesario moverse a la carpeta `Challenge_04` y ejecutar el comando `mvn test -f pom.xml`.
